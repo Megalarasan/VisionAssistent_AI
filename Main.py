@@ -537,7 +537,7 @@ class VisionAIAssistant:
 
 def main():
     # Replace with your actual Google API key
-    GOOGLE_API_KEY = 'AIzaSyAL0EJGSp-g7rhuBwQpgk8T95llLa6kq1c'
+    GOOGLE_API_KEY = 'YOUR_API_KEY'
 
     # Initialize Vision AI Assistant
     vision_assistant = VisionAIAssistant(GOOGLE_API_KEY)
